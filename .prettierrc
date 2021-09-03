@@ -1,0 +1,11 @@
+{
+  "eslintIntegration": true, // eslint集成
+  "stylelintIntegration": true, // 样式嵌入
+  "singleQuote": true,  // 是否使用单引号
+  "semi": false,  // 结尾是否保留分号，设置为false表示结尾不会有分号
+  "trailingComma": "none", // 对象、数组等，最后一个是否保留逗号，设置为none表示不保留逗号， es5表示保留es5的结尾逗号
+  "arrowParens": "avoid", // 箭头函数中只有一个参数是否保留括号，aviod表示不保留括号，always表示保留括号
+  "bracketSpacing": true, // 对象中的空格 默认true
+  "useTabs": false, // 使用tab缩进，默认false
+  "tabWidth": 2,  // tab缩进大小，2个空格
+}

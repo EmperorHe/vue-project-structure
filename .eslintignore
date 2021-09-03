@@ -1,0 +1,11 @@
+build/*.js
+src/assets
+public
+public/*
+dist
+mock
+mock/*
+node_modules
+node_modules/*
+vue.config.js
+src/views/docs/*
